@@ -1,0 +1,64 @@
+{
+  "results": [
+    {
+      "file": "C:\\Users\\bara.fall\\Desktop\\201805A_B6_017.png",
+      "scale": {
+        "nm_per_px": null,
+        "scale_line_px": 594.0,
+        "scale_value_nm": null,
+        "ocr_text": null,
+        "debug": {
+          "crop_box": [
+            0,
+            1652,
+            600,
+            1952
+          ],
+          "best_line": [
+            3,
+            299,
+            597,
+            299
+          ],
+          "scale_line_px": 594.0,
+          "ocr_available": false
+        }
+      },
+      "agglomerate": {
+        "area_px": 2283,
+        "area_nm2": null,
+        "centroid_rc": [
+          1390.3320192728866,
+          1468.0192728865527
+        ],
+        "Dg_px": 111.2686996459961,
+        "Dg_nm": null
+      },
+      "primary_particles": {
+        "Npp": 4,
+        "diameters_px": [
+          6.0,
+          6.0,
+          8.0,
+          6.0
+        ],
+        "diameters_nm": null,
+        "dpp_mean_nm": null,
+        "debug": {
+          "rmin_px": 3,
+          "rmax_px": 25,
+          "roi_bbox": [
+            1378,
+            1319,
+            1553,
+            1472
+          ],
+          "n_circles_raw": 5,
+          "n_circles_kept": 4
+        }
+      },
+      "fractal": null,
+      "overlay_path": null
+    }
+  ]
+}
